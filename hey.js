@@ -2,7 +2,7 @@ alert("hello");
 //huhuhu
 //nanoi!
 
+console.log("我有log!");
 
 
-
-// 另一人ㄉ˙
+// 另一人的
